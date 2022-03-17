@@ -1,6 +1,6 @@
 # Go-Explore
 
-!(montezuma)[https://i.makeagif.com/media/3-23-2021/Z09aOF.gif]
+![montezuma](https://i.makeagif.com/media/3-23-2021/Z09aOF.gif)
 
 Project for the Reinforcement learning course by Erwan LE PENNEC. 
 
